@@ -1,0 +1,44 @@
+#my first game (not as super cool, as I could not get a good function to work, but the code does the job)!
+
+print('This is a cool ROCK-PAPER-SCISSORS-Game!\n')
+
+P1 = input('Pick your tool Player 1?: \n')
+P2 = input('What tool do you want Player 2?: \n')  
+
+if P1 == P2:
+    print('there is no winner, you have both chosen: ' + P1)
+elif P1 == 'rock' and P2 == 'scissors':
+    print('Player 1 wins, congratulations!')
+elif P1 == 'rock' and P2 == 'paper':
+    print('Player 2 wins, congratulations!')
+elif P1 == 'scissors' and P2 == 'paper':
+    print('Player 1 wins, congratulations!')
+elif P1 == 'scissors' and P2 == 'rock':
+    print('Player 2 wins, congratulations!')
+elif P1 == 'paper' and P2 == 'scissors':
+    print('Player 2 wins, congratulations!')
+else: 
+    print('Player 1 wins, congratulations!')
+
+while True:
+    gameinp = str(input('Would you like to play another game? Type no if you want to stop:\n')) 
+    if gameinp == 'no':
+        print('Thank you for playing, goodbye!')
+        break
+    else: 
+        P1 = input('Pick your tool Player 1?: \n')
+        P2 = input('What tool do you want Player 2?: \n')
+        if P1 == P2:
+            print('there is no winner, you have both chosen: ' + P1)
+        elif P1 == 'rock' and P2 == 'scissors':
+            print('Player 1 wins, congratulations!')
+        elif P1 == 'rock' and P2 == 'paper':
+            print('Player 2 wins, congratulations!')
+        elif P1 == 'scissors' and P2 == 'paper':
+            print('Player 1 wins, congratulations!')
+        elif P1 == 'scissors' and P2 == 'rock':
+            print('Player 2 wins, congratulations!')
+        elif P1 == 'paper' and P2 == 'scissors':
+            print('Player 2 wins, congratulations!')
+        else: 
+            print('Player 1 wins, congratulations!')
