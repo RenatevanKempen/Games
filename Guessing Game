@@ -1,0 +1,28 @@
+#This is a simple guessing game. The person has to guess the number the computer selected randomly. 
+
+import random
+print('This is a GUESSING game!!\n')
+
+a = random.randint(1, 9)
+x = input("Guess a number between 1 and 9 or type exit to leave the game: ")
+b = 1
+
+while x != a or x != 'exit':
+    if x == 'exit':
+        print('Thank you for playing, goodbye')
+        break
+    
+    x = int(x)
+    if x < a:
+        print('Wrong, too low\n'+'Give it another try or type exit to leave the game')
+        x = input("Guess a number between 1 and 9: ")
+        b += 1
+    elif x > a:
+        print('Wrong, too high\n'+'Give it another try or type exit to leave the game')
+        x = input("Guess a number between 1 and 9: ")
+        b += 1    
+    else:    
+        print('Well done! You have guessed the correct number')
+        print('you have guessed ' + str(b) + ' times to get it')
+        break
+ 
