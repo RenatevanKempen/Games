@@ -3,4 +3,6 @@
  
  #already in:
  - Cows and bulls
+ - Guessing Game
+ - Rock-Paper-Scissors
 
