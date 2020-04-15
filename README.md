@@ -4,6 +4,8 @@
  Here I will enter my self-made games in Python. 
  
  #already in:
+ - Yatzee 
+ - Zombie game (pygame)
  - Cows and bulls
  - Guessing Game
  - Rock-Paper-Scissors
