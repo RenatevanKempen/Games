@@ -9,6 +9,7 @@
  - Cows and bulls
  - Guessing Game
  - Rock-Paper-Scissors
+ - Turtle race
  
  Do you have any great games made in Python? Let me know!!
  You can find me on [Linkedin](https://www.linkedin.com/in/renatevankempen/) or [email](renate@baime.nl) me!
