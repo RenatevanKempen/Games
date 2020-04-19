@@ -4,7 +4,7 @@
  Here I will enter my self-made games in Python. 
  
  #already in:
- - Yatzee 
+ - Yatzee (first draft)
  - Zombie game (pygame)
  - Cows and bulls
  - Guessing Game
