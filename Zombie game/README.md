@@ -6,6 +6,8 @@ I love playing games! And I love reading fiction books! And now with Python I ca
 Nothing really fancy (yet ;-)), but starting to get somewhere. 
 These zombie games are just a start and combine my passion for fiction as well as my passion for games.
 
+![Zombie game](https://user-images.githubusercontent.com/47600826/80281335-a7a12500-870a-11ea-9a61-f4561b5c1edd.png)
+
 Hope you will enjoy playing them. 
 Let me know what you thought of them by sending me an [email](renate@baime.nl). 
 
