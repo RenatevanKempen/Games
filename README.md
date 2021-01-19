@@ -15,7 +15,7 @@
  You can find me on [Linkedin](https://www.linkedin.com/in/renatevankempen/) or [email](renate@baime.nl) me!
  
  Great coding game sites for children (or beginners ;-):
- - [micro:bit](https://microbit.org/) 
+ - [Micro:bit](https://microbit.org/) 
  
  Kind regards,
  
