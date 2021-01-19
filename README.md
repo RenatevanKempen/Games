@@ -1,4 +1,4 @@
-![BAIME banner Linkedin](https://user-images.githubusercontent.com/47600826/73174265-9c3c5e80-4107-11ea-858b-c2c9f5304729.png)
+﻿![BAIME banner](https://user-images.githubusercontent.com/47600826/89530907-9b3f6480-d7ef-11ea-9849-27617f6025cf.png)
 
 # Games
  Here I will enter my self-made games in Python. 
@@ -13,6 +13,9 @@
  
  Do you have any great games made in Python? Let me know!!
  You can find me on [Linkedin](https://www.linkedin.com/in/renatevankempen/) or [email](renate@baime.nl) me!
+ 
+ Great coding game sites for children (or beginners ;-):
+ - [micro:bit](https://microbit.org/) 
  
  Kind regards,
  
