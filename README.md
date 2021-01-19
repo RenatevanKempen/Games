@@ -3,7 +3,7 @@
 # Games
  Here I will enter my self-made games in Python. 
  
- #already in:
+ ## Already in:
  - Yatzee (first draft)
  - Zombie game (pygame)
  - Cows and bulls
@@ -14,6 +14,7 @@
  Do you have any great games made in Python? Let me know!!
  You can find me on [Linkedin](https://www.linkedin.com/in/renatevankempen/) or [email](renate@baime.nl) me!
  
+ ## Tips:
  Great coding game sites for children (or beginners ;-):
  - [Micro:bit](https://microbit.org/) 
  
