@@ -1,4 +1,5 @@
-![BAIME banner Linkedin](https://user-images.githubusercontent.com/47600826/73174265-9c3c5e80-4107-11ea-858b-c2c9f5304729.png)
+﻿![BAIME banner](https://user-images.githubusercontent.com/47600826/89530907-9b3f6480-d7ef-11ea-9849-27617f6025cf.png)
+
 
 # Zombie game explained
 
